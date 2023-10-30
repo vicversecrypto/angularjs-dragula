@@ -11,3 +11,11 @@ insert_final_newline = true
 
 [*.md]
 trim_trailing_whitespace = false
+git clone https://github.com/insidesherpa/shiptivity-1.git
+
+npm install
+import Dragula from 'dragula';
+import Dragula from 'dragula';
+git add .
+git commit -m "Implemented Kanban board functionality"
+git push origin master
